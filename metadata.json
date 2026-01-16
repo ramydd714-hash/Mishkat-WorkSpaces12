@@ -1,0 +1,7 @@
+{
+  "name": "Mishkat WorkSpaces Landing",
+  "description": "Professional, warm, and inspiring landing page for Mishkat WorkSpaces in Nasr City, Cairo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
